@@ -1,3 +1,3 @@
 # T-shirt Store
 
-This is some shitty description that I am writing cuz I cannot decide what to write
+This project as of now only includes the backend part of a T-shirt store which stores a user's login credentials and authentication.
